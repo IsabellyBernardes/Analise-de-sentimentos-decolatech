@@ -52,6 +52,6 @@ O sistema não apenas categoriza o sentimento (positivo, negativo ou neutro), ma
 Isso pode ser útil para avaliar o tom de opiniões, avaliações de produtos ou até mesmo para análise de redes sociais.
 
 
-Aqui segue um exemplo de análise:
+Aqui segue um exemplo de análise de input de texto fornecido pela Azure IA (pode ter acesso completo ao texto acessando o arquivo inputs):
 <img width="1100" alt="image" src="https://github.com/user-attachments/assets/2c71caf3-25e6-44f2-a857-56c2a89e397c" />
 
