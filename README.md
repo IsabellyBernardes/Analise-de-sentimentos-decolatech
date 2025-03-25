@@ -50,3 +50,8 @@ A análise é baseada em uma série de modelos de inteligência artificial que d
 O sistema não apenas categoriza o sentimento (positivo, negativo ou neutro), mas também fornece uma pontuação que indica a intensidade do sentimento.
 
 Isso pode ser útil para avaliar o tom de opiniões, avaliações de produtos ou até mesmo para análise de redes sociais.
+
+
+Aqui segue um exemplo de análise:
+<img width="1100" alt="image" src="https://github.com/user-attachments/assets/2c71caf3-25e6-44f2-a857-56c2a89e397c" />
+
